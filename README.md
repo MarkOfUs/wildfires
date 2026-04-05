@@ -1,7 +1,5 @@
 # Wildfire Damage Modeling
 
-This repository contains our DATASCI 112 final project on neighborhood-scale wildfire damage modeling.
-
 ## Project overview
 
 We study whether pre-fire terrain, vegetation, and fuel context can help predict where structural damage is more likely after a wildfire. We aggregate structure-level damage inspection records to **H3 hexagons**, engineer terrain and LANDFIRE-based features, build visualizations, and compare classification models for hex-level damage prediction.
